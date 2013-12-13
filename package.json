@@ -1,0 +1,35 @@
+{
+  "name": "grunt-copyright",
+  "version": "0.1.0",
+  "description": "Grunt task to check for text patterns (like a copyright) in a bunch of files.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pdehaan/grunt-copyright.git"
+  },
+  "keywords": [
+    "gruntfile",
+    "copyright",
+    "grep"
+  ],
+  "author": "Peter deHaan (http://nodeexamples.com/)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/pdehaan/grunt-copyright/issues"
+  },
+  "homepage": "https://github.com/pdehaan/grunt-copyright",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.7.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
