@@ -1,7 +1,7 @@
 {
   "name": "grunt-copyright",
   "description": "Grunt task to check for text patterns (like a copyright) in a bunch of files.",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "author": "Peter deHaan (http://nodeexamples.com/)",
   "bugs": {
     "url": "https://github.com/pdehaan/grunt-copyright/issues"
