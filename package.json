@@ -22,7 +22,7 @@
   "license": "WTFPL",
   "main": "Gruntfile.js",
   "peerDependencies": {
-    "grunt": ">=0.4.2"
+    "grunt": ">=0.4.0"
   },
   "repository": {
     "type": "git",
